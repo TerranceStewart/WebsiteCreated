@@ -1,0 +1,65 @@
+
+body {
+    background-color: brown;
+}
+
+table {
+    color: skyblue; 
+    background-color: darkslategrey;
+    border-top-left-radius: 10px;
+    text-align: center;
+    padding: 5px;
+}
+
+form {
+    color: white;
+    font-size: large;
+    font-weight: 60px;
+    font-style: italic;
+}
+
+tr:nth-child(2n){
+    color: black;
+    background-color: bisque;
+}
+
+h1 {
+    color: black;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+a {
+color:crimson;
+background-color: beige;
+text-align: center;
+float: right;
+padding: 5px;
+}
+.pic
+s {
+    border-radius: 1cm;
+    border-style: groove;
+    border-color: darkolivegreen;
+    padding: 10px;
+}
+
+.font-styling {
+    color: white;
+    font-size: medium;
+    font-weight: 40px;
+}
+
+.placeholder-text {
+    text-decoration: line-through;
+}
+
+#enlarge-text {
+    color: whitesmoke;
+    font-size: large;
+}
+
+a:hover {
+color:black;
+background-color: whitesmoke;
+}
